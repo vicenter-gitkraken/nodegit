@@ -4,3 +4,6 @@
 [submodule "vendor/http_parser"]
 	path = vendor/http_parser
 	url = https://github.com/nasd/http-parser
+[submodule "test-repo3"]
+	path = test-repo3
+	url = https://github.com/vicenter-gitkraken/test-repo3.git
